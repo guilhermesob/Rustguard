@@ -9,4 +9,9 @@ edition = "2021"
 tokio = { version = "1", features = ["full"] }
 futures = "0.3"
 async-trait = "0.1"
+[package]
+name = "meu_projeto"
+version = "0.1.0"
+edition = "2018"
+wireguard-rs = "0.1"
 
