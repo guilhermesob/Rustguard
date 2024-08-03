@@ -62,4 +62,4 @@ Para um projeto de VPN, um diagrama UML básico pode incluir os seguintes compon
     - `receive_data()`: Recebe dados através do túnel VPN.
 
 **versão**
-v 0.0.1
+v 0.0.1.1
